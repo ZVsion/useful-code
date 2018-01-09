@@ -1,5 +1,5 @@
 # useful-code
-List some useful code
+##List some useful code
 
 
 [DeepLab V3](https://github.com/NanqingD/DeepLabV3-Tensorflow)
@@ -8,7 +8,7 @@ List some useful code
 
 [FCN--train your own data](https://github.com/MarvinTeichmann/KittiSeg)
 
-[Encoder-Decoder](https://github.com/fabianbormann/Tensorflow-DeconvNet-Segmentation)
+[Encoder-Decoder Network](https://github.com/fabianbormann/Tensorflow-DeconvNet-Segmentation)
 
 [FCN](https://github.com/shekkizh/FCN.tensorflow)
 
