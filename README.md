@@ -1,5 +1,5 @@
 # useful-code
-##List some useful code
+## List some useful code for our Projects.
 
 
 [DeepLab V3](https://github.com/NanqingD/DeepLabV3-Tensorflow)
