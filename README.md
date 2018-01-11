@@ -12,3 +12,5 @@
 
 [FCN](https://github.com/shekkizh/FCN.tensorflow)
 
+[DeepLab v2 (Combined CRF)](https://github.com/zhengyang-wang/Deeplab-v2--ResNet-101--Tensorflow)
+
