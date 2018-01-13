@@ -14,3 +14,5 @@
 
 [DeepLab v2 (Combined CRF)](https://github.com/zhengyang-wang/Deeplab-v2--ResNet-101--Tensorflow)
 
+[CRF as RNN](https://github.com/sadeepj/crfasrnn_keras)
+
