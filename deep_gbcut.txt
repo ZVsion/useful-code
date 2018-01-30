@@ -1,0 +1,14 @@
+loss大小问题搞定！
+平衡交叉熵（trick）搞定！
+
+修改的地方：
+网络结构 conv6改成 （4096 [7, 7]）
+deconvnet -- 双线性插值(osvos)+不训练？ or xavier(deep gbcut)+训练？ 
+          -- 去掉bias
+
+TODO:
+  encoder层 导入 FCN 预训练模型的前14层
+  并且第一个conv层的第四通道初始化为0
+  
+  看max_pool和unpool的内容，找问题
+  考虑：是用反池化还是crop_feature?
