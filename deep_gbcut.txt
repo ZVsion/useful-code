@@ -12,3 +12,5 @@ TODO:
   
   看max_pool和unpool的内容，找问题
   考虑：是用反池化还是crop_feature?
+
+  weight L2 decay
